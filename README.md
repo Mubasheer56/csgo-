@@ -1,2 +1,1 @@
-# csgo-
-its my csgo game
+Project 20 of WhiteHat Jr. -Krish Garg
